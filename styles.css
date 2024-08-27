@@ -74,10 +74,9 @@ p.message{
 }
 
 .btn:hover {
-    transform: scale(1.3);
     background-color: crimson;
     color: #ffffff;
-    transform: translateY(-4px);
+    transform: translateY(-4px) scale(1.2);
 }
 
 .btn:active {
